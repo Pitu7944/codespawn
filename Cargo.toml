@@ -10,5 +10,5 @@ homepage = "https://github.com/kondrak/codespawn"
 documentation = "https://docs.rs/codespawn"
 
 [dependencies]
-xml-rs = "0.3"
-json = "0.10"
+xml-rs = "0.8"
+json = "0.12"
